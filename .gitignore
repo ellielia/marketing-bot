@@ -1,2 +1,4 @@
 .env
 discord-channels.json
+.idea/
+idea/
